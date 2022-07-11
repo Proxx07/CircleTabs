@@ -1,3 +1,3 @@
 # CircleTabs
 
-Here'll be <a href="https://proxx07.github.io/CircleTabs/">link to tabs</a>
+<a href="https://proxx07.github.io/CircleTabs/">Tabs preview</a>
