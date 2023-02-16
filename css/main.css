@@ -334,6 +334,7 @@ body * {
       -ms-flex-positive: 1;
           flex-grow: 1;
   background: #666666;
+  background: #000;
   border-radius: 0px 0px 60px 0px;
   width: 100%;
 }
