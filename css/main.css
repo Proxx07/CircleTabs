@@ -333,9 +333,8 @@ body * {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
-  background: #666666;
-  background: #000;
-  border-radius: 0px 0px 60px 0px;
+  background: linear-gradient(135deg, #017FE1, #4FFFDF);
+  border-radius: 10px 10px 60px 10px;
   width: 100%;
 }
 
